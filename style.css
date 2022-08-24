@@ -1,0 +1,26 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.diskGif{
+    margin-top: 10px;
+    width:200px;
+    border-radius: 100px;
+}
+#speed,#volume,#play_button{
+   font-size: 25px;
+}
+canvas{
+    border: 3px dashed burlywood;
+}
